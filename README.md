@@ -363,7 +363,7 @@ Possible future extensions include:
 **Department:** Computer Science and Engineering  
 **Institution:** East Delta University  
 **Course:** Computer Graphics  
-**Project:** A Peregrination Through the Countryside
+**Project:** A Peregrination Through the Campus
 
 ## License
 

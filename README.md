@@ -296,11 +296,13 @@ Interactive 2D City Architecture (Day & Night Mode)
 
 ### Day Mode
 
-![Day Mode](screenshots/day-mode.png)
+![Day Mode](screenshots/day-mode.png)<img width="959" height="503" alt="Screenshot day-mode" src="https://github.com/user-attachments/assets/f078d065-5445-4c00-b38d-01eb294067fd" />
+
 
 ### Night Mode
 
-![Night Mode](screenshots/night-mode.png)
+![Night Mode](screenshots/night-mode.png)<img width="959" height="505" alt="Screenshot night-mode" src="https://github.com/user-attachments/assets/9f4e8152-e7d5-4756-bf91-465691136cf5" />
+
 
 > Put the two screenshots inside a folder named `screenshots` and use the exact filenames `day-mode.png` and `night-mode.png`.
 
